@@ -36,5 +36,3 @@
 ## Attendance in tabular format 
 <img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/Attendance.png'>
 
-## Just follow me and Star⭐ my repository 
-## Thank You!!
